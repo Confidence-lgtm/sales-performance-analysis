@@ -68,5 +68,4 @@ Python and Pandas were used to clean the raw sales dataset by handling missing v
 ## Conclusion
 This project demonstrates the use of Python and Power BI to clean, analyze, and visualize business sales data in order to generate insights that support data-driven decision-making.
 
-## Conclusion
-This project demonstrates the use of Python and Power BI to clean, analyze, and visualize business sales data in order to generate insights that support data-driven decision-making.
+
