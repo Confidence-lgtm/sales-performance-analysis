@@ -1,16 +1,21 @@
-# -FUTURE_DS_01
-Data Science &amp; Analytics Internship - Task Projects
- Business Sales Performance Analytics
+# Sales Performance Analysis
 
- Project Overview
-This project focuses on analyzing business sales data to identify revenue trends, top-selling products, regional performance, and high-value product categories.
+Business sales performance analysis using Python for data cleaning and Power BI for visualization to uncover revenue trends, top products, regional performance, and actionable insights.
 
-The goal of the analysis is to generate actionable business insights and support data-driven decision-making using data analytics and visualization techniques.
+## Project Overview
+This project focuses on analyzing business sales data to identify revenue trends, top-selling products, regional performance, and high-performing product categories.
 
- 🛠Tools & Technologies Used
+Python and Pandas were used to clean and prepare the dataset, while Power BI was used to build an interactive dashboard and visualize key business insights.
+
+The goal of the analysis is to generate actionable business insights and support data-driven decision-making through data cleaning, analysis, and visualization.
+
+## Tools & Technologies
+- Python
+- Pandas
+- Jupyter Notebook
 - Power BI
 
- Dataset
+## Dataset
 The dataset used in this project contains:
 - Sales transactions
 - Product categories
@@ -18,44 +23,50 @@ The dataset used in this project contains:
 - Regional sales data
 - Customer and order details
 
-  Project Objectives
+## Project Objectives
 - Analyze revenue trends
 - Identify top-selling products
 - Compare regional performance
 - Evaluate category-level sales
 - Generate business recommendations
 
- Key Insights
+## Data Preparation
+Python and Pandas were used to clean the raw sales dataset by handling missing values, correcting data formats, and preparing the data for analysis in Power BI.
+
+## Key Insights
 - Certain product categories generated significantly higher revenue
 - Some regions consistently outperformed others
 - A small number of products contributed heavily to total sales
 - Sales trends indicated seasonal fluctuations
 
- Recommendations
+## Recommendations
 - Increase marketing efforts in high-performing regions
-- Focus inventory on top-selling products
+- Focus inventory planning on top-selling products
 - Improve strategies for underperforming categories
 - Use historical trends for sales forecasting
 
- Dashboard Preview
-<img width="1915" height="965" alt="image" src="https://github.com/user-attachments/assets/20ba5817-913b-42d9-aef2-ae9cc3ea950a" />
+## Dashboard Preview
+<img width="1915" height="965" alt="Sales Dashboard Preview" src="https://github.com/user-attachments/assets/20ba5817-913b-42d9-aef2-ae9cc3ea950a" />
 
- Deliverables Included
-- Power BI Dashboard
-- Jupyter Notebook Analysis
+## Deliverables
+- Power BI dashboard
+- Jupyter Notebook analysis
 - Dataset
-- Project Report
-- Dashboard Screenshots
+- Project report
+- Dashboard screenshots
 
- Skills Demonstrated
+## Skills Demonstrated
 - Data Cleaning
+- Data Analysis
+- Python for Data Preparation
 - Business Analytics
 - KPI Analysis
 - Data Visualization
 - Insight Generation
 - Dashboard Development
 
-Internship Program
-Completed as part of the Data Science & Analytics Internship by Future Interns.
+## Conclusion
+This project demonstrates the use of Python and Power BI to clean, analyze, and visualize business sales data in order to generate insights that support data-driven decision-making.
 
-🔗 https://www.linkedin.com/company/future-interns/
+## Conclusion
+This project demonstrates the use of Python and Power BI to clean, analyze, and visualize business sales data in order to generate insights that support data-driven decision-making.
